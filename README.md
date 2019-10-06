@@ -89,7 +89,7 @@ If r > l
 
   Odd Even Sort uses parallel algorithm which is based on bubble sort technique.
   
-  It is also known as ### Brick Sort.
+  It is also known as Brick Sort.
   
   1) It compares two adjacent numbers and switches them, if the first number is greater than the second number to get an ascending order list.
   
